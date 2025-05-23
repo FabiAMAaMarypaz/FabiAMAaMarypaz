@@ -1,16 +1,44 @@
-## Hi there 👋
+# 👋 ¡Hola, soy Fabián Rodríguez!
 
-<!--
-**FabiAMAaMarypaz/FabiAMAaMarypaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudiante en el Colegio Científico de San Pedro.  
+🔬 Apasionado por la ciencia, el ajedrez y la música.
 
-Here are some ideas to get you started:
+> “La curiosidad es el motor de la exploración y el aprendizaje.”
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🎯 Habilidades y Tecnologías
+
+- 🧪 Ciencias
+- 🌍 Música
+- 📊 Ajedrez
+- 🔧 Carros
+
+
+---
+
+## 📊 Estadísticas de GitHub
+
+FabiAMAaMarypaz
+
+---
+
+## 📁 Proyectos Destacados
+
+### 🗻 Estudiante avanzado de música en el EMAI
+
+### 🧪 Dar clases de ajedrez en Santa Ana
+
+---
+
+## 📬 Contacto y Redes Sociales
+
+- 📧 Correo: fabirm@gmail.com 
+- 💼 [Instagram](https://twitter.com/r_fab_m)
+- 🐦 [WhatsApp](72391736)
+
+---
+
+## 🎨 Extras
+
+![Meme](https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif)
